@@ -1,0 +1,11 @@
+# immediate/output files of SDCC
+
+*.ihx
+*.lk
+*.lst
+*.map
+*.mem
+*.rel
+*.rst
+*.sym
+*.asm
